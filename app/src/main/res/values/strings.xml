@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="tv1">nombre</string>
+    <string name="tv2">Apellidos</string>
+    <string name="bt1">Agregar</string>
+    <string name="rbt1">Alumno</string>
+    <string name="tv3">Edad</string>
+    <string name="tv4">Correo Electronico</string>
+</resources>
